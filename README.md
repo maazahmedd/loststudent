@@ -4,7 +4,7 @@
 
 ### **Description**
 
-It has been a really bad day for Mehani. All manner of troubles have come her way from the moment she woke up and the day seems to be getting worse and worse as it progresses. From missed appointments to stomach aches to even running head first into a glass door, folllow Mehani throughout the day and determine the sequence in which each of these events happened.
+It has been a really bad day for Mehani. All manner of troubles have come her way from the moment they woke up and the day seems to be getting worse and worse as it progresses. From missed appointments to stomach aches to even running head first into a glass door, folllow Mehani throughout the day and determine the sequence in which each of these events happened.
 
 This video project leads the users to determining the sequence in which the unfortunate events take place. The users take on the role of a professor whose student came late for an important class and the users get to decide which videos they want to see as many times as they'd like in order to determine what happened and when. Clues are scattered throughout the videos and users would have to pay attention to these clues to determine the order.
 
@@ -21,27 +21,12 @@ This video project leads the users to determining the sequence in which the unfo
 
 + **Page 3: Determine the Sequence (Mini Game!)**
   
-  The second panel shows the cats and the cat mom being interviewed. This panel provides clues and hints as to where the missing cat might be which influences the decisions the reader makes in the next panel. The images were placed in a grid and the grid-template-areas properties was used to position the images. Then the speech bubbles were downloaded as PNGs with transparent backgrounds. And then, the opacity of the speech bubbles was set to 0 and would only be displayed when the reader hovers over the image.
+  This minigame allows the user to arrange chronologically the order of events. If an incorrect event is chosen, a sound file is played and a warning is issued and if a correct event is clicked, the event snaps into the sequence on the right and a sound file is played. When all 10 events have been arranged, a popup appears congratulating the user and providing a link to the final page, the conclusion of Mehani's story.
   
   
 + **Final Page; Ending Video**
 
-  The third panel was the world map panel and the fifth panel was the airport page. For these parts, it was mostly about hovering over images and interact with them. What was  difficult was that you can not interact with the image if it’s embedded with the background image, and two solutions were found were that: first using svg to trace all the border needed, and interact through different layers’ id and this was applied to the world map panel. We found a traced world map on internet, and then called the ID of different layers in CSS to change the color of the continent chosen. And the second solution is to place different layers of images, then one can directly interact with the image. However, this solution has the issue of positioning the image precisely. So to solve this, the grid display was used to posiiton the image.
-  
-
-+ **Panel 4**
-  
-  Photoshop was used to edit the image and illustrator to trace the image and buttons to allow for interactivity. The class name was called from the svg file to start the ringtone when hovered on the top, make colors darken when buttons are hovered, and to trigger sound when clicked on the green button. Then logic was applied to distort the audio and make it sound spooky.
-  
-
-+ **Panel 6**
-  
-  Finally!! This panel shows you who the criminal was. Speech balloons were used to make it seem like there were actual dialogues. The location was set by giving specific location through percentages.
-  
-
-+ **Ending Page**
-  
-  The ending page wraps up the comic by granting you a huge amount of money! A cute image with the message "Congratulations You Won!" and an image of a happy cat is displayed! The adventure is over but if the reader would like to play again, they can either click the 'Go Back to Home' button on the navigation bar which will take them to the index page, or click the 'Missing Cat' button which will take them to the first panel.
+  The final page features the ending video and the end to Mehani's story. In the video, we see Mehani pardonned for their lateness and excused from any penalties as it has really been a rough day for them. The user is able to play again or exit the website.
 
 
 
