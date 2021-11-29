@@ -4,7 +4,7 @@
 
 ### **Description**
 
-It has been a really bad day for Mehani. All manner of troubles have come their way from the moment they woke up and the day seems to be getting worse and worse as it progresses. From missed appointments to stomach aches to even running head first into a glass door, folllow John throughout the day and determine the sequence in which each of these events happened.
+It has been a really bad day for Mehani. All manner of troubles have come their way from the moment they woke up and the day seems to be getting worse and worse as it progresses. From missed appointments to stomach aches to even running head first into a glass door, folllow Mehani throughout the day and determine the sequence in which each of these events happened.
 
 This video project leads the users to determining the sequence in which the unfortunate events take place. The users take on the role of a professor whose student came late for an important class and thr users get to decide which videos they want to see as many times as they'd like in order to determine what happened and when. Clues are scattered throughout the videos and users would have to pay attention to these clues to determine the order.
 
@@ -16,7 +16,7 @@ This video project leads the users to determining the sequence in which the unfo
 
 + **Page 2: Floating Videos**
   
-  The first panel sets an introduction to the whole comic. It introduces how a cat has gone missing and the whole journey is about finding it! Photoshop was used to crop the image of the wanted cat. After that, a black and white filter (done through grayscale) was used to deliver a serious mood.
+  The second page provides clues that will help the user determine the sequence of events. The page features 10 videos floating around, each video being a segment of the story and the user is free to watch the videos in whichever order they want and as many times as they want. When a thumbnail is clicked, a popup of the video associated with the thumbnail appears on the screen with a video. When the user is ready to progress, they can click the link on the bottom to navigate to the next page.
   
 
 + **Page 3: Determine the Sequence (Mini Game!)**
