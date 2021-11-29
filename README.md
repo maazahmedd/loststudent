@@ -24,7 +24,7 @@ This video project leads the users to determining the sequence in which the unfo
   This minigame allows the user to arrange chronologically the order of events. If an incorrect event is chosen, a sound file is played and a warning is issued and if a correct event is clicked, the event snaps into the sequence on the right and a sound file is played. When all 10 events have been arranged, a popup appears congratulating the user and providing a link to the final page, the conclusion of Mehani's story.
   
   
-+ **Final Page; Ending Video**
++ **Final Page: Ending Video**
 
   The final page features the ending video and the end to Mehani's story. In the video, we see Mehani pardonned for her lateness and excused from any penalties as it has really been a rough day for her. The user is able to play again or exit the website.
 
