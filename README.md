@@ -4,7 +4,7 @@
 
 ### **Description**
 
-It has been a really bad day for John Doe(dummy name). All manner of troubles have come their way from the moment they woke up and the day seems to be getting worse and worse as it progresses. From missed appointments to stomach aches to even running head first into a glass door, folllow John throughout the day and determine the sequence in which each of these events happened.
+It has been a really bad day for Mehani. All manner of troubles have come their way from the moment they woke up and the day seems to be getting worse and worse as it progresses. From missed appointments to stomach aches to even running head first into a glass door, folllow John throughout the day and determine the sequence in which each of these events happened.
 
 This video project leads the users to determining the sequence in which the unfortunate events take place. The users take on the role of a professor whose student came late for an important class and thr users get to decide which videos they want to see as many times as they'd like in order to determine what happened and when. Clues are scattered throughout the videos and users would have to pay attention to these clues to determine the order.
 
@@ -12,8 +12,7 @@ This video project leads the users to determining the sequence in which the unfo
 
 + **Starting Page**
   
-  Will you help us find the missing cat?? Help or Ignore. In the loading page, we decided to let the reader decide if he or she wants to help us find the missing cat or not. We did this by making two buttons. Clicking the help button will lead to the first pannel of the comic, while clicking the ignore button will.. make us cry. The gif file was made through photoshop.
-  
+  This page contains the introductory video providing context on the story and what is expected of the user. The video introduces the main character Mehani who comes late for a very important class and is to told to wait behind after class to explain what happened. The user can then navigate to the next page which will contain clues to help them decipher the order of events.
 
 + **Page 2: Floating Videos**
   
