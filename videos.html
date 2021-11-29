@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles-videos.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+<div class = "button_container">
+
+  <p align="left">
+    <button onclick ="window.location.href='index.html';" type="previous" style="height:50px;width:100px"><i class="fa fa-arrow-left fa-2x" aria-hidden="true" style="color:white"></i></button>
+  </p>
+
+  <!-- <p align="right">
+    <button onclick ="window.location.href='guess.html';" type="next" style="height:50px;width:100px"><i class="fa fa-arrow-right fa-2x" aria-hidden="true" style="color:#1F1C1B"></i></button>
+  </p> -->
+
+</div>
+
+
+<div class='a'>
+	<div class="video-image">
+		<img class="main-image" src="part1.jpeg" onclick="playVideo('part1.mp4')">
+		<img class="play-button" src="playButton.png" onclick="playVideo('part1.mp4')">
+	</div>
+</div>
+
+
+<div class='b'>
+  <div class="video-image">
+    <img class="main-image" src="part2.PNG" onclick="playVideo('part2.mp4')">
+    <img class="play-button" src="playButton.png" onclick="playVideo('part2.mp4')">
+  </div>
+</div>
+
+
+<div class='c'>
+  <div class="video-image">
+    <img class="main-image" src="part3.PNG" onclick="playVideo('part3.mp4')">
+    <img class="play-button" src="playButton.png" onclick="playVideo('part3.mp4')">
+  </div>
+</div>
+
+
+<div class='d'>
+  <div class="video-image">
+    <img class="main-image" src="part4.PNG" onclick="playVideo('part4.mp4')">
+    <img class="play-button" src="playButton.png" onclick="playVideo('part4.mp4')">
+  </div>
+</div>
+
+
+<div class='e'>
+  <div class="video-image">
+    <img class="main-image" src="part5.PNG" onclick="playVideo('part5.mp4')">
+    <img class="play-button" src="playButton.png" onclick="playVideo('part5.mp4')">
+  </div>
+</div>
+
+
+<div class='f'>
+  <div class="video-image">
+    <img class="main-image" src="part6.PNG" onclick="playVideo('part6.mp4')">
+    <img class="play-button" src="playButton.png" onclick="playVideo('part6.mp4')">
+  </div>
+</div>
+
+
+<div class='g'>
+  <div class="video-image">
+    <img class="main-image" src="part7.PNG" onclick="playVideo('part7.mp4')">
+    <img class="play-button" src="playButton.png" onclick="playVideo('part7.mp4')">
+  </div>
+</div>
+
+
+<div class='h'>
+  <div class="video-image">
+    <img class="main-image" src="part8.PNG" onclick="playVideo('part8.mp4')">
+    <img class="play-button" src="playButton.png" onclick="playVideo('part8.mp4')">
+  </div>
+</div>
+
+
+<div class='i'>
+  <div class="video-image">
+    <img class="main-image" src="part9.jpg" onclick="playVideo('part9.mp4')">
+    <img class="play-button" src="playButton.png" onclick="playVideo('part9.mp4')">
+  </div>
+</div>
+
+
+<div class='j'>
+  <div class="video-image">
+    <img class="main-image" src="part10.PNG" onclick="playVideo('part10.mp4')">
+    <img class="play-button" src="playButton.png" onclick="playVideo('part10.mp4')">
+  </div>
+</div>
+
+<h2><a href="guess.html">Ready, Set, Guess</a></h2>
+
+<div class="video-pop">
+    <div class="video-player" id=videoPlayer>
+        <video width="100%" controls autostart="false" id="showing-video" >
+            <source src="CommLabVideo.mp4" type="video/mp4">
+        </video>
+        <img class="close-button" src="cancel.png" onclick="stopVideo()">
+    </div>
+</div>
+
+<h2><a href="guess.html">Ready, Set, Guess</a></h2>
+
+
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="script.js"></script>
+
+</body>
+</html>

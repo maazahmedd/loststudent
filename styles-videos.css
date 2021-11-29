@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+/*giving appropriate values to the entire body*/
+body {
+  font-family: 'Roboto Mono', monospace;
+  /*background-color: pink;*/
+  background-color: ;
+  background-image: url('cool-background.svg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}
+
+.previous{
+ grid-area: lefter;
+}
+
+.next{
+ grid-area: righter;
+}
+
+.button_container{
+ padding-left: 10px;
+ padding-right: 10px;
+ display:grid;
+ grid-template-columns: 1fr 1fr;
+ grid-template-rows: auto;
+ grid-template-areas:
+   "previous next";
+}
+
+div.a {
+position:fixed;
+}
+
+
+div.b {
+position:fixed;
+}
+
+div.c {
+position:fixed;
+}
+
+
+div.d {
+position:fixed;   
+}
+
+div.e {
+position:fixed;
+}
+
+div.f {
+position:fixed;   
+}
+
+div.g {
+  position: fixed;
+}
+
+div.h {
+  position:fixed;
+}
+
+div.i {
+  position: fixed;
+}
+
+div.j {
+  position: fixed;
+}
+
+.video-image{
+	position: relative;
+}
+
+.main-image{
+	width: 250px;
+  cursor: pointer;
+}
+
+.play-button{
+    width: 50px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+h2{
+  color: black;
+  text-align: center;
+}
+
+a{
+  color: black;
+}
+
+
+.video-player{
+    width: 80%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 150px solid #e4d6d1e8;
+    display: none;
+}
+
+
+video:focus{
+    outline: none;
+}
+
+.close-button{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 60px;
+    cursor: pointer;
+}
+
+h2{
+  padding-top: 20px;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  bottom: -0.5vw;
+}
+
+button{
+  border-radius: 30px;
+  border: 1px solid #4e5695;
+  background-color: #4e5695;
+}
+
+.fa-arrow-left{
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+@media(max-width: 900px), (max-height:700px){
+
+    .col h3{
+        font-size: medium;
+    }
+
+    .main-image{
+        width: 150px;
+    }
+
+    .video-player{
+        border: 100px solid #e4d6d1e8;
+    }
+
+}
+
+@media(max-width: 500px) {
+
+    .main-image{
+        width: 150px;
+    }
+
+    .video-player{
+        border: 50px solid #e4d6d1e8;
+    }
+
+    
+
+}
+
