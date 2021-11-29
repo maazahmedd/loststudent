@@ -26,16 +26,13 @@ This video project leads the users to determining the sequence in which the unfo
   
 + **Final Page; Ending Video**
 
-  The final page features the ending video and the end to Mehani's story. In the video, we see Mehani pardonned for their lateness and excused from any penalties as it has really been a rough day for them. The user is able to play again or exit the website.
+  The final page features the ending video and the end to Mehani's story. In the video, we see Mehani pardonned for her lateness and excused from any penalties as it has really been a rough day for her. The user is able to play again or exit the website.
 
 
 
 ### **Reflection**
 
-We found this project to be really exciting! It felt really cool handling all the cameras and sound equipment and determining what angles to take certain shots from and at some points it even felt as if we were taking a theater class. Filming and editing did take some time but it was interesting to see how even a little change made so much impact on how the final result looked like. The website was also really fun to work on and to not only implement a working website but also one that we felt conveyed the vibe of the project was a task we had fun doing. After this project, we do feel that we have gained a lot of skills and insight into the world of video editing and it was overall a very enjoyable experience
+We found this project to be really exciting! It felt really cool handling all the cameras and sound equipment and determining what angles to take certain shots from and at some points it even felt as if we were taking a theater class. Filming and editing did take some time but it was interesting to see how even a little change made so much impact on how the final result looked like. The website was also really fun to work on and to not only implement a working website but also one that we felt conveyed the vibe of the project was a task we had fun doing. After this project, we do feel that we have gained a lot of skills and insight into the world of video editing and it was overall a very enjoyable experience.
 
 
-### **Interesting Notes**
-
-For some reason, one of the fonts that was in .ttf wasn't loading until we converted it to .otf even though the other fonts were in .ttf! Also, Github takes some time to show the changes you've effected so you have to consider that as well.
 
